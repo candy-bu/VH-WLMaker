@@ -1,5 +1,4 @@
 <h1>VH Wordlist Maker</h1>
-Description
 VH Wordlist Maker is a bash script designed to automate the generation of custom wordlists depends in target subdomain. It takes a list of subdomains and a wordlist as input and creates a new wordlist.
 the final wordlist is like this
 
