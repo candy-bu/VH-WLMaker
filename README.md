@@ -3,7 +3,7 @@ VH Wordlist Maker is a bash script designed to automate the generation of custom
 the final wordlist is like this
 
 ```
-[wl] + [wl + target.tld] + [subdomains]
+[wl] + [wl.target.tld] + [subdomains]
 ```
 
 <h2>instalation:</h2>
