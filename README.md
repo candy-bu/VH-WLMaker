@@ -10,15 +10,15 @@ the final wordlist is like this
 <h2>instalation:</h2>
 
 ```
-git clone https://github.com/candy-bu/VH-WLMaker.git
-cd VH-WLMaker
+git clone https://github.com/candy-bu/vh-wlmaker.git
+cd vh-wlmaker
 chmod +x setup.sh
 ./setup.sh
 ```
 <h2>Usage:</h2>
 
 ```
-./vh_wordlist_maker.sh -w [path to your wordlist] -i [path to your subdomain file] [-s] [-h]
+vh-wlmaker -w [path to your wordlist] -i [path to your subdomain file] [-s] [-h]
 ```
 
 it will convert urls to subdomains if you have list of urls from target.
@@ -31,7 +31,7 @@ Options:
 <h2>Example:</h2>
 
 ```
-./vh_wordlist_maker.sh -w wordlist.txt -i subdomains.txt
+vh-wlmaker -w wordlist.txt -i subdomains.txt
 ```
 
 Output
