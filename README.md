@@ -5,8 +5,11 @@ the final wordlist is like this
 ```
 [wl] + [wl + target.tld] + [subdomains]
 ```
-
-Usage:
+<h2>instalation:</h2>
+```
+git clone 
+```
+<h2>Usage:</h2>
 ```
 ./vh_wordlist_maker.sh -w [path to your wordlist] -i [path to your subdomain file] [-s] [-h]
 ```
@@ -17,7 +20,7 @@ Options:
 -s: (Optional) Suppress output.
 -h: (Optional) Display help menu.
 
-Example:
+<h2>Example:</h2>
 ```
 ./vh_wordlist_maker.sh -w wordlist.txt -i subdomains.txt
 ```
