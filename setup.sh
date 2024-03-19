@@ -1,4 +1,4 @@
-sudo chmod +x VH-WLMaker.sh
-sudo mv VH-WLMaker.sh /usr/bin/VH-WLMaker
-sudo rm -rf VH-WLMaker
+sudo chmod +x vh-wlmaker.sh
+sudo mv vh-wlmaker.sh /usr/bin/vh-wlmaker
+sudo rm -rf vh-wlmaker
 cd ~
